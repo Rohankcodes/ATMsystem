@@ -7,7 +7,7 @@ time.sleep(5)
 
 password = 1234
 
-#taking atm pin from user
+#taking atm pin number from user
 pin = int(input("enter your atm pin "))
 
 #user account balance
